@@ -1,1 +1,1 @@
-export const API: string = 'http://localhost/Project-Salao-Simplificado/back-end';
+export const API: string = 'http://localhost/Project-Salao/back-end';
